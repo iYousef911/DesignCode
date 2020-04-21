@@ -205,6 +205,8 @@ struct BottomCardView: View {
                 .font(.subheadline)
                 .lineSpacing(4)
             
+            
+            
             Spacer()
         }
         .padding(.top, 8)
